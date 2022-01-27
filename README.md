@@ -1,2 +1,1 @@
-# pwa-boilerplate
-Basic vanilla PWA boilerplate repository
+# Share target app
