@@ -39,7 +39,7 @@
       "purpose": "any maskable"
     }
   ],
-  "share_target": {
+  "share_target": [{
     "action": "/share-target/",
     "method": "GET",
     "params": {
@@ -48,6 +48,5 @@
       "url": "url"
     }
   }
-  
+]
 }
-
